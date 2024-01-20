@@ -9,10 +9,12 @@ Projeto desenvolvido pelo programa Discover promovido pela Rocketseat para ensin
 </p>
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias: <br>
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+
+- HTML e CSS<br>
+- JavaScript<br>
+- Git e Github<br>
+- Figma<br>
+
 ## 💻 Projeto <br>
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
